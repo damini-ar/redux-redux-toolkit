@@ -23,7 +23,7 @@ const Auth = () => {
             <label htmlFor="password">Password</label>
             <input type="password" id="password" />
           </div>
-          <button>Login</button>
+          <button>Login Here</button>
         </form>
       </section>
     </main>
